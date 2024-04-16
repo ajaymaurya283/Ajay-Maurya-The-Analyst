@@ -4687,7 +4687,7 @@ input, select, textarea {
 		}
 
 	}
-#header img {
+        #header img {
     width: 200px; /* Adjust the width of the image */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%; /* Make the image circular (if desired) */
